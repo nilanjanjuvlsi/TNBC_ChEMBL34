@@ -1,0 +1,2 @@
+cell_line,assay,total_records,exact_minus_4,near_boundary,near_but_not_exact,above_minus_4,below_minus_4,boundary_pubchem_inactive,boundary_pubchem_active
+BT-549,NCI AID 89,25287,10788,10788,0,81,14411,10788,0

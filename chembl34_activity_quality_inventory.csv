@@ -1,0 +1,8 @@
+cell_name,total_activity_records,missing_standard_type,missing_standard_value,non_exact_relations,validity_comment_records,potential_duplicate_records,activity_comment_records,standardized_text_records,pchembl_records
+BT-549,32178,0,603,1083,90,0,25967,0,576
+HCC1806,560,0,130,48,28,0,130,0,201
+HCC1937,428,0,67,45,48,0,67,0,203
+MCF-10A,3670,0,806,754,148,0,816,0,1083
+MCF-12A,141,0,57,18,3,0,57,0,29
+MDA-MB-231,77946,0,9263,7107,959,41,37122,0,16988
+MDA-MB-468,10783,0,1479,1091,128,2,1475,0,2598

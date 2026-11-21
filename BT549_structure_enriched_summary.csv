@@ -1,0 +1,14 @@
+metric,count
+Total working records,25280
+Unique SIDs,25280
+Records with ChEMBL structures,24919
+Records using recovered PubChem structures,132
+Records without structures,229
+Valid canonical structures,25051
+Invalid SMILES,0
+InChIKey generation failures,0
+Unique full InChIKeys,24843
+Duplicate structure groups,198
+Records belonging to duplicate structure groups,406
+ChEMBL supplied-key disagreements,57
+PubChem supplied-key disagreements,0

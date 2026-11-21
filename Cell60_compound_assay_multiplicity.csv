@@ -1,0 +1,475 @@
+doc_id,molregno,cell_id,cell_line,activity_rows,assay_count,assay_ids,activity_ids,IC50_values_nM,assay_descriptions
+17067,154275,141,MCF-10A,1,1,100406,817714,38000.0,Inhibitory activity against MCF-10A human breast cell line
+17067,154275,325,MDA-MB-231,1,1,99149,817712,23000.0,Inhibitory activity against MDA-MB-231 human breast cell line
+17067,154276,141,MCF-10A,1,1,100406,812813,63000.0,Inhibitory activity against MCF-10A human breast cell line
+17067,154276,325,MDA-MB-231,1,1,99149,812811,15000.0,Inhibitory activity against MDA-MB-231 human breast cell line
+17067,154277,141,MCF-10A,1,1,100406,801329,18000.0,Inhibitory activity against MCF-10A human breast cell line
+17067,154277,325,MDA-MB-231,1,1,99149,801327,8000.0,Inhibitory activity against MDA-MB-231 human breast cell line
+17067,154362,141,MCF-10A,1,1,100406,792192,12000.0,Inhibitory activity against MCF-10A human breast cell line
+17067,154362,325,MDA-MB-231,1,1,99149,792190,18000.0,Inhibitory activity against MDA-MB-231 human breast cell line
+17067,154905,141,MCF-10A,1,1,100406,790715,15000.0,Inhibitory activity against MCF-10A human breast cell line
+17067,154905,325,MDA-MB-231,1,1,99149,790713,8000.0,Inhibitory activity against MDA-MB-231 human breast cell line
+17067,154909,141,MCF-10A,1,1,100406,817709,18000.0,Inhibitory activity against MCF-10A human breast cell line
+17067,154909,325,MDA-MB-231,1,1,99149,817707,8800.0,Inhibitory activity against MDA-MB-231 human breast cell line
+17067,154910,141,MCF-10A,1,1,100406,801324,18000.0,Inhibitory activity against MCF-10A human breast cell line
+17067,154910,325,MDA-MB-231,1,1,99149,801322,9500.0,Inhibitory activity against MDA-MB-231 human breast cell line
+17067,154939,141,MCF-10A,1,1,100406,810306,44000.0,Inhibitory activity against MCF-10A human breast cell line
+17067,154939,325,MDA-MB-231,1,1,99149,810304,44000.0,Inhibitory activity against MDA-MB-231 human breast cell line
+17067,155575,141,MCF-10A,1,1,100406,805006,25000.0,Inhibitory activity against MCF-10A human breast cell line
+17067,155575,325,MDA-MB-231,1,1,99149,805004,8500.0,Inhibitory activity against MDA-MB-231 human breast cell line
+17067,155576,141,MCF-10A,1,1,100406,818881,38000.0,Inhibitory activity against MCF-10A human breast cell line
+17067,155576,325,MDA-MB-231,1,1,99149,818879,11000.0,Inhibitory activity against MDA-MB-231 human breast cell line
+17067,155624,141,MCF-10A,1,1,100406,803840,17000.0,Inhibitory activity against MCF-10A human breast cell line
+17067,155624,325,MDA-MB-231,1,1,99149,803838,9500.0,Inhibitory activity against MDA-MB-231 human breast cell line
+17067,155625,141,MCF-10A,1,1,100406,806443,13000.0,Inhibitory activity against MCF-10A human breast cell line
+17067,155625,325,MDA-MB-231,1,1,99149,806441,9000.0,Inhibitory activity against MDA-MB-231 human breast cell line
+17067,155684,141,MCF-10A,1,1,100406,795404,75000.0,Inhibitory activity against MCF-10A human breast cell line
+17067,155684,325,MDA-MB-231,1,1,99149,795402,8800.0,Inhibitory activity against MDA-MB-231 human breast cell line
+75025,68607,141,MCF-10A,1,1,985887,13462099,36260.0,Cytotoxicity against human MCF10A cells after 72 hrs by MTT assay
+75025,68607,325,MDA-MB-231,1,1,985889,13462118,1500.0,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by MTT assay
+75025,1582313,141,MCF-10A,1,1,985887,13462100,43870.0,Cytotoxicity against human MCF10A cells after 72 hrs by MTT assay
+75025,1582313,325,MDA-MB-231,1,1,985889,13462119,12500.0,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by MTT assay
+75025,1582314,141,MCF-10A,1,1,985887,13462117,30560.0,Cytotoxicity against human MCF10A cells after 72 hrs by MTT assay
+75025,1582314,325,MDA-MB-231,1,1,985889,13462895,17770.0,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by MTT assay
+75025,1582315,141,MCF-10A,1,1,985887,13462116,40000.0,Cytotoxicity against human MCF10A cells after 72 hrs by MTT assay
+75025,1582315,325,MDA-MB-231,1,1,985889,13462894,11760.0,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by MTT assay
+75025,1582316,141,MCF-10A,1,1,985887,13462115,36260.0,Cytotoxicity against human MCF10A cells after 72 hrs by MTT assay
+75025,1582316,325,MDA-MB-231,1,1,985889,13462893,14810.0,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by MTT assay
+75025,1582317,141,MCF-10A,1,1,985887,13462114,38800.0,Cytotoxicity against human MCF10A cells after 72 hrs by MTT assay
+75025,1582317,325,MDA-MB-231,1,1,985889,13462892,12120.0,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by MTT assay
+75025,1582318,141,MCF-10A,1,1,985887,13462113,38800.0,Cytotoxicity against human MCF10A cells after 72 hrs by MTT assay
+75025,1582318,325,MDA-MB-231,1,1,985889,13462891,16000.0,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by MTT assay
+75025,1582319,141,MCF-10A,1,1,985887,13462112,33580.0,Cytotoxicity against human MCF10A cells after 72 hrs by MTT assay
+75025,1582319,325,MDA-MB-231,1,1,985889,13462890,16660.0,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by MTT assay
+75025,1582320,141,MCF-10A,1,1,985887,13462111,37770.0,Cytotoxicity against human MCF10A cells after 72 hrs by MTT assay
+75025,1582320,325,MDA-MB-231,1,1,985889,13462889,14060.0,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by MTT assay
+75025,1582321,141,MCF-10A,1,1,985887,13462110,37800.0,Cytotoxicity against human MCF10A cells after 72 hrs by MTT assay
+75025,1582321,325,MDA-MB-231,1,1,985889,13462888,19040.0,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by MTT assay
+75025,1582322,141,MCF-10A,1,1,985887,13462109,39000.0,Cytotoxicity against human MCF10A cells after 72 hrs by MTT assay
+75025,1582322,325,MDA-MB-231,1,1,985889,13462887,17020.0,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by MTT assay
+75025,1582323,141,MCF-10A,1,1,985887,13462108,40000.0,Cytotoxicity against human MCF10A cells after 72 hrs by MTT assay
+75025,1582323,325,MDA-MB-231,1,1,985889,13462886,15380.0,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by MTT assay
+75025,1582324,141,MCF-10A,1,1,985887,13462107,34000.0,Cytotoxicity against human MCF10A cells after 72 hrs by MTT assay
+75025,1582324,325,MDA-MB-231,1,1,985889,13462885,20510.0,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by MTT assay
+75025,1582325,141,MCF-10A,1,1,985887,13462106,38300.0,Cytotoxicity against human MCF10A cells after 72 hrs by MTT assay
+75025,1582325,325,MDA-MB-231,1,1,985889,13462884,13790.0,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by MTT assay
+75025,1582326,141,MCF-10A,1,1,985887,13462105,30560.0,Cytotoxicity against human MCF10A cells after 72 hrs by MTT assay
+75025,1582326,325,MDA-MB-231,1,1,985889,13462883,12690.0,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by MTT assay
+75025,1582327,141,MCF-10A,1,1,985887,13462104,34870.0,Cytotoxicity against human MCF10A cells after 72 hrs by MTT assay
+75025,1582327,325,MDA-MB-231,1,1,985889,13462123,12700.0,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by MTT assay
+75025,1582328,141,MCF-10A,1,1,985887,13462103,37770.0,Cytotoxicity against human MCF10A cells after 72 hrs by MTT assay
+75025,1582328,325,MDA-MB-231,1,1,985889,13462122,12900.0,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by MTT assay
+75025,1582329,141,MCF-10A,1,1,985887,13462102,42500.0,Cytotoxicity against human MCF10A cells after 72 hrs by MTT assay
+75025,1582329,325,MDA-MB-231,1,1,985889,13462121,12300.0,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by MTT assay
+75025,1582330,141,MCF-10A,1,1,985887,13462101,43170.0,Cytotoxicity against human MCF10A cells after 72 hrs by MTT assay
+75025,1582330,325,MDA-MB-231,1,1,985889,13462120,13110.0,Cytotoxicity against human MDA-MB-231 cells after 72 hrs by MTT assay
+99732,381668,325,MDA-MB-231,1,1,1588143,16641205,72800.0,Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,381668,583,MDA-MB-468,1,1,1588144,16641253,80200.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,481495,325,MDA-MB-231,2,2,1588143;1588147,16641200;16641309,44300.0;87600.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,481495,583,MDA-MB-468,1,1,1588144,16641248,95500.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,1530151,325,MDA-MB-231,3,3,1588141;1588143;1588147,16641199;16641308;16641354,19800.0;33500.0;79500.0,Antiinvasive activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell invasion incubated for 24 hrs by calcien-AM dye based BME cell invasion assay || Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,1530151,583,MDA-MB-468,1,1,1588144,16641247,88800.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,1968162,325,MDA-MB-231,2,2,1588143;1588147,16641201;16641310,30500.0;59900.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,1968162,583,MDA-MB-468,1,1,1588144,16641249,64200.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094082,325,MDA-MB-231,3,3,1588141;1588143;1588147,16641196;16641305;16641353,7500.0;15000.0;18200.0,Antiinvasive activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell invasion incubated for 24 hrs by calcien-AM dye based BME cell invasion assay || Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094082,583,MDA-MB-468,1,1,1588144,16641244,19100.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094083,325,MDA-MB-231,2,2,1588143;1588147,16641197;16641306,13800.0;80400.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094083,583,MDA-MB-468,1,1,1588144,16641245,93700.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094084,325,MDA-MB-231,1,1,1588143,16641202,91300.0,Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094084,583,MDA-MB-468,1,1,1588144,16641250,92200.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094085,325,MDA-MB-231,2,2,1588143;1588147,16641203;16641312,40600.0;83200.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094085,583,MDA-MB-468,1,1,1588144,16641251,89200.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094086,325,MDA-MB-231,2,2,1588143;1588147,16641204;16641313,30400.0;68800.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094086,583,MDA-MB-468,1,1,1588144,16641252,74500.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094087,325,MDA-MB-231,2,2,1588143;1588147,16641206;16641315,4600.0;89900.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094087,583,MDA-MB-468,1,1,1588144,16641254,91100.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094088,325,MDA-MB-231,2,2,1588143;1588147,16641207;16641316,16300.0;72300.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094088,583,MDA-MB-468,1,1,1588144,16641255,79100.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094089,325,MDA-MB-231,2,2,1588143;1588147,16641208;16641317,4200.0;18900.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094089,583,MDA-MB-468,1,1,1588144,16641256,21100.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094090,325,MDA-MB-231,2,2,1588143;1588147,16641209;16641318,12700.0;16000.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094090,583,MDA-MB-468,1,1,1588144,16641257,20300.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094091,325,MDA-MB-231,2,2,1588143;1588147,16641210;16641319,4500.0;12700.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094091,583,MDA-MB-468,1,1,1588144,16641258,14200.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094092,141,MCF-10A,1,1,1588145,16641292,226400.0,Cytotoxicity against human MCF10A cells assessed as inhibition of HGF-induced cell growth incubated for 24 hrs by MTT assay
+99732,2094092,325,MDA-MB-231,3,3,1588141;1588143;1588147,16641211;16641320;16641355,2500.0;2700.0;3800.0,Antiinvasive activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell invasion incubated for 24 hrs by calcien-AM dye based BME cell invasion assay || Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094092,583,MDA-MB-468,1,1,1588144,16641259,6000.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094093,325,MDA-MB-231,2,2,1588143;1588147,16641213;16641322,4600.0;10500.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094093,583,MDA-MB-468,1,1,1588144,16641261,13300.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094094,325,MDA-MB-231,2,2,1588143;1588147,16641214;16641323,7500.0;13000.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094094,583,MDA-MB-468,1,1,1588144,16641262,15200.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094095,325,MDA-MB-231,2,2,1588143;1588147,16641215;16641324,5600.0;10100.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094095,583,MDA-MB-468,1,1,1588144,16641263,14100.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094096,141,MCF-10A,1,1,1588145,16641293,190500.0,Cytotoxicity against human MCF10A cells assessed as inhibition of HGF-induced cell growth incubated for 24 hrs by MTT assay
+99732,2094096,325,MDA-MB-231,2,2,1588143;1588147,16641216;16641325,4800.0;7600.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094096,583,MDA-MB-468,1,1,1588144,16641264,9400.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094097,141,MCF-10A,1,1,1588145,16641294,203200.0,Cytotoxicity against human MCF10A cells assessed as inhibition of HGF-induced cell growth incubated for 24 hrs by MTT assay
+99732,2094097,325,MDA-MB-231,3,3,1588141;1588143;1588147,16641217;16641326;16641357,4100.0;4400.0;14200.0,Antiinvasive activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell invasion incubated for 24 hrs by calcien-AM dye based BME cell invasion assay || Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094097,583,MDA-MB-468,1,1,1588144,16641265,7400.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094098,325,MDA-MB-231,2,2,1588143;1588147,16641218;16641327,8300.0;10600.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094098,583,MDA-MB-468,1,1,1588144,16641266,14200.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094099,325,MDA-MB-231,2,2,1588143;1588147,16641219;16641328,8100.0;11800.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094099,583,MDA-MB-468,1,1,1588144,16641267,15900.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094100,141,MCF-10A,1,1,1588145,16641295,273800.0,Cytotoxicity against human MCF10A cells assessed as inhibition of HGF-induced cell growth incubated for 24 hrs by MTT assay
+99732,2094100,325,MDA-MB-231,2,2,1588143;1588147,16641220;16641329,5400.0;7300.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094100,583,MDA-MB-468,1,1,1588144,16641268,8900.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094101,141,MCF-10A,1,1,1588145,16641296,222800.0,Cytotoxicity against human MCF10A cells assessed as inhibition of HGF-induced cell growth incubated for 24 hrs by MTT assay
+99732,2094101,325,MDA-MB-231,2,2,1588143;1588147,16641221;16641330,6200.0;8200.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094101,583,MDA-MB-468,1,1,1588144,16641269,9900.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094102,141,MCF-10A,1,1,1588145,16641297,214400.0,Cytotoxicity against human MCF10A cells assessed as inhibition of HGF-induced cell growth incubated for 24 hrs by MTT assay
+99732,2094102,325,MDA-MB-231,2,2,1588143;1588147,16641222;16641331,7800.0;9200.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094102,583,MDA-MB-468,1,1,1588144,16641270,8600.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094103,325,MDA-MB-231,2,2,1588143;1588147,16641223;16641332,8100.0;10100.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094103,583,MDA-MB-468,1,1,1588144,16641271,10500.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094104,141,MCF-10A,1,1,1588145,16641298,185800.0,Cytotoxicity against human MCF10A cells assessed as inhibition of HGF-induced cell growth incubated for 24 hrs by MTT assay
+99732,2094104,325,MDA-MB-231,2,2,1588143;1588147,16641224;16641333,5200.0;8600.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094104,583,MDA-MB-468,1,1,1588144,16641272,10100.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094105,325,MDA-MB-231,2,2,1588143;1588147,16641225;16641334,11800.0;12200.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094105,583,MDA-MB-468,1,1,1588144,16641273,15500.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094106,325,MDA-MB-231,2,2,1588143;1588147,16641226;16641335,13300.0;14700.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094106,583,MDA-MB-468,1,1,1588144,16641274,17200.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094107,325,MDA-MB-231,2,2,1588143;1588147,16641227;16641336,18800.0;27900.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094107,583,MDA-MB-468,1,1,1588144,16641275,31200.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094108,325,MDA-MB-231,2,2,1588143;1588147,16641228;16641337,21600.0;25300.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094108,583,MDA-MB-468,1,1,1588144,16641276,27600.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094109,325,MDA-MB-231,2,2,1588143;1588147,16641229;16641338,4100.0;10300.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094109,583,MDA-MB-468,1,1,1588144,16641277,13200.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094110,325,MDA-MB-231,1,1,1588143,16641230,17400.0,Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094110,583,MDA-MB-468,1,1,1588144,16641278,19100.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094111,325,MDA-MB-231,2,2,1588143;1588147,16641231;16641340,4300.0;15800.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094111,583,MDA-MB-468,1,1,1588144,16641279,16100.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094112,325,MDA-MB-231,2,2,1588143;1588147,16641232;16641341,8700.0;19300.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094112,583,MDA-MB-468,1,1,1588144,16641280,23400.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094113,141,MCF-10A,1,1,1588145,16641299,244300.0,Cytotoxicity against human MCF10A cells assessed as inhibition of HGF-induced cell growth incubated for 24 hrs by MTT assay
+99732,2094113,325,MDA-MB-231,2,2,1588143;1588147,16641233;16641342,4600.0;9200.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094113,583,MDA-MB-468,1,1,1588144,16641281,10400.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094114,325,MDA-MB-231,2,2,1588143;1588147,16641234;16641343,31200.0;40500.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094114,583,MDA-MB-468,1,1,1588144,16641282,46200.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094115,141,MCF-10A,1,1,1588145,16641300,167500.0,Cytotoxicity against human MCF10A cells assessed as inhibition of HGF-induced cell growth incubated for 24 hrs by MTT assay
+99732,2094115,325,MDA-MB-231,3,3,1588141;1588143;1588147,16641235;16641344;16641358,4000.0;4200.0;7100.0,Antiinvasive activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell invasion incubated for 24 hrs by calcien-AM dye based BME cell invasion assay || Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094115,583,MDA-MB-468,1,1,1588144,16641283,6900.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094116,325,MDA-MB-231,2,2,1588143;1588147,16641236;16641345,19800.0;22300.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094116,583,MDA-MB-468,1,1,1588144,16641284,25600.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094117,141,MCF-10A,1,1,1588145,16641301,171600.0,Cytotoxicity against human MCF10A cells assessed as inhibition of HGF-induced cell growth incubated for 24 hrs by MTT assay
+99732,2094117,325,MDA-MB-231,2,2,1588143;1588147,16641237;16641346,5400.0;6300.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094117,583,MDA-MB-468,1,1,1588144,16641285,8200.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094118,325,MDA-MB-231,2,2,1588143;1588147,16641238;16641347,8200.0;13700.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094118,583,MDA-MB-468,1,1,1588144,16641286,17200.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094119,325,MDA-MB-231,2,2,1588143;1588147,16641239;16641348,9300.0;15100.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094119,583,MDA-MB-468,1,1,1588144,16641287,16800.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094120,141,MCF-10A,1,1,1588145,16641302,209600.0,Cytotoxicity against human MCF10A cells assessed as inhibition of HGF-induced cell growth incubated for 24 hrs by MTT assay
+99732,2094120,325,MDA-MB-231,2,2,1588143;1588147,16641240;16641349,3600.0;9300.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094120,583,MDA-MB-468,1,1,1588144,16641288,10700.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094121,141,MCF-10A,1,1,1588145,16641303,212600.0,Cytotoxicity against human MCF10A cells assessed as inhibition of HGF-induced cell growth incubated for 24 hrs by MTT assay
+99732,2094121,325,MDA-MB-231,2,2,1588143;1588147,16641241;16641350,3900.0;9500.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094121,583,MDA-MB-468,1,1,1588144,16641289,11500.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094122,325,MDA-MB-231,2,2,1588143;1588147,16641242;16641351,14200.0;15400.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094122,583,MDA-MB-468,1,1,1588144,16641290,15900.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094123,325,MDA-MB-231,2,2,1588143;1588147,16641243;16641352,12600.0;13300.0,Antimigratory activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell migration incubated for 24 hrs by Giemsa staining based wound healing assay || Antiproliferative activity against human MDA-MB-231 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+99732,2094123,583,MDA-MB-468,1,1,1588144,16641291,17600.0,Antiproliferative activity against human MDA-MB-468 cells expressing c-MET assessed as inhibition of HGF-induced cell growth incubated for 72 hrs by MTT assay
+101589,13048,325,MDA-MB-231,1,1,1624456,16789738,7440.0,Cytotoxicity against human MDA-MB-231 cells assessed as reduction in cell viability after 48 hrs by MTT assay
+101589,13048,789,BT-549,1,1,1624455,16789720,15540.0,Cytotoxicity against human BT549 cells assessed as reduction in cell viability after 48 hrs by MTT assay
+101589,2114254,325,MDA-MB-231,1,1,1624456,16789724,21720.0,Cytotoxicity against human MDA-MB-231 cells assessed as reduction in cell viability after 48 hrs by MTT assay
+101589,2114254,789,BT-549,1,1,1624455,16789706,26910.0,Cytotoxicity against human BT549 cells assessed as reduction in cell viability after 48 hrs by MTT assay
+101589,2124283,325,MDA-MB-231,1,1,1624456,16789727,37560.0,Cytotoxicity against human MDA-MB-231 cells assessed as reduction in cell viability after 48 hrs by MTT assay
+101589,2124283,789,BT-549,1,1,1624455,16789709,39080.0,Cytotoxicity against human BT549 cells assessed as reduction in cell viability after 48 hrs by MTT assay
+101589,2126055,325,MDA-MB-231,1,1,1624456,16789734,40560.0,Cytotoxicity against human MDA-MB-231 cells assessed as reduction in cell viability after 48 hrs by MTT assay
+101589,2130720,141,MCF-10A,1,1,1624460,16789801,68830.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability after 48 hrs by MTT assay
+101589,2130720,325,MDA-MB-231,1,1,1624456,16789729,25120.0,Cytotoxicity against human MDA-MB-231 cells assessed as reduction in cell viability after 48 hrs by MTT assay
+101589,2130720,789,BT-549,1,1,1624455,16789711,35080.0,Cytotoxicity against human BT549 cells assessed as reduction in cell viability after 48 hrs by MTT assay
+101589,2135060,141,MCF-10A,1,1,1624460,16789804,56890.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability after 48 hrs by MTT assay
+101589,2135060,325,MDA-MB-231,1,1,1624456,16789732,3260.0,Cytotoxicity against human MDA-MB-231 cells assessed as reduction in cell viability after 48 hrs by MTT assay
+101589,2135060,789,BT-549,1,1,1624455,16789714,13680.0,Cytotoxicity against human BT549 cells assessed as reduction in cell viability after 48 hrs by MTT assay
+101589,2163951,325,MDA-MB-231,1,1,1624456,16789723,30420.0,Cytotoxicity against human MDA-MB-231 cells assessed as reduction in cell viability after 48 hrs by MTT assay
+101589,2163951,789,BT-549,1,1,1624455,16789705,38870.0,Cytotoxicity against human BT549 cells assessed as reduction in cell viability after 48 hrs by MTT assay
+101589,2186016,325,MDA-MB-231,1,1,1624456,16789726,22720.0,Cytotoxicity against human MDA-MB-231 cells assessed as reduction in cell viability after 48 hrs by MTT assay
+101589,2186016,789,BT-549,1,1,1624455,16789708,26740.0,Cytotoxicity against human BT549 cells assessed as reduction in cell viability after 48 hrs by MTT assay
+101589,2187598,141,MCF-10A,1,1,1624460,16789807,99650.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability after 48 hrs by MTT assay
+101589,2187598,325,MDA-MB-231,1,1,1624456,16789735,7230.0,Cytotoxicity against human MDA-MB-231 cells assessed as reduction in cell viability after 48 hrs by MTT assay
+101589,2187598,789,BT-549,1,1,1624455,16789717,23650.0,Cytotoxicity against human BT549 cells assessed as reduction in cell viability after 48 hrs by MTT assay
+101589,2194093,325,MDA-MB-231,1,1,1624456,16789728,37460.0,Cytotoxicity against human MDA-MB-231 cells assessed as reduction in cell viability after 48 hrs by MTT assay
+104835,991554,141,MCF-10A,1,1,1672400,18103861,47700.0,Cytotoxicity against human MCF10A cells assessed as decrease in cell viability after 120 hrs by MTS assay
+104835,991554,325,MDA-MB-231,1,1,1672405,18103866,11100.0,Cytotoxicity against human MDA-MB-231 cells assessed as decrease in cell viability after 120 hrs by MTS assay
+104835,991554,583,MDA-MB-468,1,1,1672402,18103863,10200.0,Cytotoxicity against human MDA-MB-468 cells assessed as decrease in cell viability after 120 hrs by MTS assay
+104835,991554,789,BT-549,1,1,1672403,18103864,35400.0,Cytotoxicity against human BT549 cells assessed as decrease in cell viability after 120 hrs by MTS assay
+104835,991554,1353,HCC1937,1,1,1672407,18103868,89100.0,Cytotoxicity against human HCC1937 cells assessed as decrease in cell viability after 120 hrs by MTS assay
+104835,1228306,141,MCF-10A,1,1,1672400,18103851,48300.0,Cytotoxicity against human MCF10A cells assessed as decrease in cell viability after 120 hrs by MTS assay
+104835,1228306,325,MDA-MB-231,1,1,1672405,18103856,6700.0,Cytotoxicity against human MDA-MB-231 cells assessed as decrease in cell viability after 120 hrs by MTS assay
+104835,1228306,583,MDA-MB-468,1,1,1672402,18103853,5700.0,Cytotoxicity against human MDA-MB-468 cells assessed as decrease in cell viability after 120 hrs by MTS assay
+104835,1228306,789,BT-549,1,1,1672403,18103854,6400.0,Cytotoxicity against human BT549 cells assessed as decrease in cell viability after 120 hrs by MTS assay
+104835,1228306,1353,HCC1937,1,1,1672407,18103858,13700.0,Cytotoxicity against human HCC1937 cells assessed as decrease in cell viability after 120 hrs by MTS assay
+105992,11305,141,MCF-10A,1,1,1704448,18255847,2110.0,Antiproliferative activity against human MCF10A cells after 72 hrs by MTT assay
+105992,11305,325,MDA-MB-231,2,2,1704442;1704447,18255841;18255846,430.0;3300.0,Antiproliferative activity against human MDA-MB-231 cells after 5 days by MTT assay || Antiproliferative activity against human MDA-MB-231 cells after 72 hrs by MTT assay
+105992,11305,1353,HCC1937,1,1,1704452,18255849,4230.0,Antiproliferative activity against human HCC1937 cells after 3 days by MTT assay
+105992,469866,325,MDA-MB-231,2,2,1704442;1704447,18255755;18255760,7920.0;39510.0,Antiproliferative activity against human MDA-MB-231 cells after 5 days by MTT assay || Antiproliferative activity against human MDA-MB-231 cells after 72 hrs by MTT assay
+105992,469866,1353,HCC1937,1,1,1704452,18255752,8650.0,Antiproliferative activity against human HCC1937 cells after 3 days by MTT assay
+105992,2215422,325,MDA-MB-231,2,2,1704442;1704447,18255813;18255818,35400.0;57850.0,Antiproliferative activity against human MDA-MB-231 cells after 5 days by MTT assay || Antiproliferative activity against human MDA-MB-231 cells after 72 hrs by MTT assay
+105992,2217925,141,MCF-10A,1,1,1704448,18255785,17350.0,Antiproliferative activity against human MCF10A cells after 72 hrs by MTT assay
+105992,2217925,325,MDA-MB-231,2,2,1704442;1704447,18255779;18255784,940.0;2680.0,Antiproliferative activity against human MDA-MB-231 cells after 5 days by MTT assay || Antiproliferative activity against human MDA-MB-231 cells after 72 hrs by MTT assay
+105992,2217925,1353,HCC1937,1,1,1704452,18255788,450.0,Antiproliferative activity against human HCC1937 cells after 3 days by MTT assay
+105992,2235971,141,MCF-10A,1,1,1704448,18255739,8650.0,Antiproliferative activity against human MCF10A cells after 72 hrs by MTT assay
+105992,2235971,325,MDA-MB-231,2,2,1704442;1704447,18255740;18255745,220.0;1540.0,Antiproliferative activity against human MDA-MB-231 cells after 5 days by MTT assay || Antiproliferative activity against human MDA-MB-231 cells after 72 hrs by MTT assay
+105992,2235971,1353,HCC1937,1,1,1704452,18255736,2020.0,Antiproliferative activity against human HCC1937 cells after 3 days by MTT assay
+105992,2237004,325,MDA-MB-231,2,2,1704442;1704447,18255828;18255833,18290.0;33240.0,Antiproliferative activity against human MDA-MB-231 cells after 5 days by MTT assay || Antiproliferative activity against human MDA-MB-231 cells after 72 hrs by MTT assay
+107182,1114,141,MCF-10A,1,1,1734029,18398255,100.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+107182,1114,325,MDA-MB-231,1,1,1734026,18398207,900.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+107182,26782,141,MCF-10A,1,1,1734029,18398253,7100.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+107182,26782,325,MDA-MB-231,1,1,1734026,18398205,13200.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+107182,2262155,141,MCF-10A,1,1,1734029,18398241,6700.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+107182,2262155,325,MDA-MB-231,1,1,1734026,18398193,24500.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+107182,2263348,141,MCF-10A,1,1,1734029,18398248,2500.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+107182,2263348,325,MDA-MB-231,1,1,1734026,18398200,10200.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+107182,2265337,141,MCF-10A,1,1,1734029,18398252,1400.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+107182,2265337,325,MDA-MB-231,1,1,1734026,18398204,4500.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+107182,2265540,141,MCF-10A,1,1,1734029,18398247,16900.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+107182,2267027,141,MCF-10A,1,1,1734029,18398249,3700.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+107182,2267027,325,MDA-MB-231,1,1,1734026,18398201,40200.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+107182,2268776,141,MCF-10A,1,1,1734029,18398250,2000.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+107182,2268776,325,MDA-MB-231,1,1,1734026,18398202,5400.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+107182,2268977,141,MCF-10A,1,1,1734029,18398245,3400.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+107182,2268977,325,MDA-MB-231,1,1,1734026,18398197,7400.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+107182,2269386,141,MCF-10A,1,1,1734029,18398242,5200.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+107182,2269386,325,MDA-MB-231,1,1,1734026,18398194,10400.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+107182,2272804,141,MCF-10A,1,1,1734029,18398240,4600.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+107182,2272804,325,MDA-MB-231,1,1,1734026,18398192,9300.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+107182,2274819,141,MCF-10A,1,1,1734029,18398244,5700.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+107182,2274819,325,MDA-MB-231,1,1,1734026,18398196,10100.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+107182,2276228,141,MCF-10A,1,1,1734029,18398246,10500.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+107182,2276228,325,MDA-MB-231,1,1,1734026,18398198,19200.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+107182,2277291,141,MCF-10A,1,1,1734029,18398243,2200.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+107182,2279390,141,MCF-10A,1,1,1734029,18398251,10400.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+107182,2279390,325,MDA-MB-231,1,1,1734026,18398203,23900.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+107182,2280474,141,MCF-10A,1,1,1734029,18398254,11900.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+107182,2280474,325,MDA-MB-231,1,1,1734026,18398206,10900.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+112035,2348894,141,MCF-10A,1,1,1865059,19090525,4370.0,Antiproliferative activity against human MCF10A cells assessed as reduction in cell growth incubated for 72 hrs by MTT assay
+112035,2348894,325,MDA-MB-231,1,1,1865057,19090588,3220.0,Antiproliferative activity against triple negative human MDA-MB-231 cells assessed as reduction in cell growth incubated for 48 hrs by MTT assay
+112035,2348894,583,MDA-MB-468,1,1,1865061,19090519,8730.0,Antiproliferative activity against triple negative human MDA-MB-468 cells assessed as reduction in cell growth incubated for 72 hrs by MTT assay
+112035,2350491,325,MDA-MB-231,1,1,1865057,19090575,5340.0,Antiproliferative activity against triple negative human MDA-MB-231 cells assessed as reduction in cell growth incubated for 48 hrs by MTT assay
+112035,2364170,325,MDA-MB-231,1,1,1865057,19090569,6030.0,Antiproliferative activity against triple negative human MDA-MB-231 cells assessed as reduction in cell growth incubated for 48 hrs by MTT assay
+112035,2365736,325,MDA-MB-231,1,1,1865057,19090571,6400.0,Antiproliferative activity against triple negative human MDA-MB-231 cells assessed as reduction in cell growth incubated for 48 hrs by MTT assay
+112035,2384343,325,MDA-MB-231,1,1,1865057,19090579,3500.0,Antiproliferative activity against triple negative human MDA-MB-231 cells assessed as reduction in cell growth incubated for 48 hrs by MTT assay
+112035,2387221,325,MDA-MB-231,1,1,1865057,19090586,5040.0,Antiproliferative activity against triple negative human MDA-MB-231 cells assessed as reduction in cell growth incubated for 48 hrs by MTT assay
+112035,2393530,325,MDA-MB-231,1,1,1865057,19090574,3660.0,Antiproliferative activity against triple negative human MDA-MB-231 cells assessed as reduction in cell growth incubated for 48 hrs by MTT assay
+112035,2400866,325,MDA-MB-231,1,1,1865057,19090581,8640.0,Antiproliferative activity against triple negative human MDA-MB-231 cells assessed as reduction in cell growth incubated for 48 hrs by MTT assay
+112035,2407298,325,MDA-MB-231,1,1,1865057,19090572,4870.0,Antiproliferative activity against triple negative human MDA-MB-231 cells assessed as reduction in cell growth incubated for 48 hrs by MTT assay
+112035,2407691,325,MDA-MB-231,1,1,1865057,19090585,5080.0,Antiproliferative activity against triple negative human MDA-MB-231 cells assessed as reduction in cell growth incubated for 48 hrs by MTT assay
+112035,2415285,141,MCF-10A,1,1,1865059,19090524,110.0,Antiproliferative activity against human MCF10A cells assessed as reduction in cell growth incubated for 72 hrs by MTT assay
+112035,2415285,325,MDA-MB-231,1,1,1865057,19090565,70.0,Antiproliferative activity against triple negative human MDA-MB-231 cells assessed as reduction in cell growth incubated for 48 hrs by MTT assay
+112035,2415285,583,MDA-MB-468,1,1,1865061,19090518,1610.0,Antiproliferative activity against triple negative human MDA-MB-468 cells assessed as reduction in cell growth incubated for 72 hrs by MTT assay
+112035,2419252,325,MDA-MB-231,1,1,1865057,19090564,4270.0,Antiproliferative activity against triple negative human MDA-MB-231 cells assessed as reduction in cell growth incubated for 48 hrs by MTT assay
+112035,2429871,325,MDA-MB-231,1,1,1865057,19090573,9350.0,Antiproliferative activity against triple negative human MDA-MB-231 cells assessed as reduction in cell growth incubated for 48 hrs by MTT assay
+112035,2440381,325,MDA-MB-231,1,1,1865057,19090591,5480.0,Antiproliferative activity against triple negative human MDA-MB-231 cells assessed as reduction in cell growth incubated for 48 hrs by MTT assay
+112035,2450032,141,MCF-10A,1,1,1865059,19090526,7580.0,Antiproliferative activity against human MCF10A cells assessed as reduction in cell growth incubated for 72 hrs by MTT assay
+112035,2450032,325,MDA-MB-231,1,1,1865057,19090598,5600.0,Antiproliferative activity against triple negative human MDA-MB-231 cells assessed as reduction in cell growth incubated for 48 hrs by MTT assay
+112035,2450032,583,MDA-MB-468,1,1,1865061,19090520,16120.0,Antiproliferative activity against triple negative human MDA-MB-468 cells assessed as reduction in cell growth incubated for 72 hrs by MTT assay
+112035,2451606,325,MDA-MB-231,1,1,1865057,19090583,3530.0,Antiproliferative activity against triple negative human MDA-MB-231 cells assessed as reduction in cell growth incubated for 48 hrs by MTT assay
+112873,5295,141,MCF-10A,1,1,1890592,19206541,1.6,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability after 96 hrs by MTT assay
+112873,5295,583,MDA-MB-468,1,1,1890591,19206522,3.0,Antiproliferative activity against ER negative human MDA-MB-468 cells expressing CYP1A1 and CYP1B1 assessed as reduction in cell viability measured after 96 hrs by MTT assay
+112873,2347687,141,MCF-10A,1,1,1890592,19206539,80000.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability after 96 hrs by MTT assay
+112873,2347687,583,MDA-MB-468,1,1,1890591,19206520,6000.0,Antiproliferative activity against ER negative human MDA-MB-468 cells expressing CYP1A1 and CYP1B1 assessed as reduction in cell viability measured after 96 hrs by MTT assay
+112873,2349537,583,MDA-MB-468,1,1,1890591,19206458,410.0,Antiproliferative activity against ER negative human MDA-MB-468 cells expressing CYP1A1 and CYP1B1 assessed as reduction in cell viability measured after 96 hrs by MTT assay
+112873,2356670,141,MCF-10A,1,1,1890592,19206534,5000.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability after 96 hrs by MTT assay
+112873,2356670,583,MDA-MB-468,1,1,1890591,19206450,5000.0,Antiproliferative activity against ER negative human MDA-MB-468 cells expressing CYP1A1 and CYP1B1 assessed as reduction in cell viability measured after 96 hrs by MTT assay
+112873,2363218,141,MCF-10A,1,1,1890592,19206535,6000.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability after 96 hrs by MTT assay
+112873,2363218,583,MDA-MB-468,1,1,1890591,19206449,500.0,Antiproliferative activity against ER negative human MDA-MB-468 cells expressing CYP1A1 and CYP1B1 assessed as reduction in cell viability measured after 96 hrs by MTT assay
+112873,2365049,583,MDA-MB-468,1,1,1890591,19206453,60000.0,Antiproliferative activity against ER negative human MDA-MB-468 cells expressing CYP1A1 and CYP1B1 assessed as reduction in cell viability measured after 96 hrs by MTT assay
+112873,2366460,583,MDA-MB-468,1,1,1890591,19206460,8000.0,Antiproliferative activity against ER negative human MDA-MB-468 cells expressing CYP1A1 and CYP1B1 assessed as reduction in cell viability measured after 96 hrs by MTT assay
+112873,2367855,141,MCF-10A,1,1,1890592,19206528,5000.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability after 96 hrs by MTT assay
+112873,2367855,583,MDA-MB-468,1,1,1890591,19206456,20.0,Antiproliferative activity against ER negative human MDA-MB-468 cells expressing CYP1A1 and CYP1B1 assessed as reduction in cell viability measured after 96 hrs by MTT assay
+112873,2368917,141,MCF-10A,1,1,1890592,19206525,700.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability after 96 hrs by MTT assay
+112873,2368917,583,MDA-MB-468,1,1,1890591,19206459,350.0,Antiproliferative activity against ER negative human MDA-MB-468 cells expressing CYP1A1 and CYP1B1 assessed as reduction in cell viability measured after 96 hrs by MTT assay
+112873,2372490,141,MCF-10A,1,1,1890592,19206536,1600.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability after 96 hrs by MTT assay
+112873,2372490,583,MDA-MB-468,1,1,1890591,19206448,80.0,Antiproliferative activity against ER negative human MDA-MB-468 cells expressing CYP1A1 and CYP1B1 assessed as reduction in cell viability measured after 96 hrs by MTT assay
+112873,2383274,141,MCF-10A,1,1,1890592,19206540,1500.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability after 96 hrs by MTT assay
+112873,2383274,583,MDA-MB-468,1,1,1890591,19206521,500.0,Antiproliferative activity against ER negative human MDA-MB-468 cells expressing CYP1A1 and CYP1B1 assessed as reduction in cell viability measured after 96 hrs by MTT assay
+112873,2393566,583,MDA-MB-468,1,1,1890591,19206454,1000.0,Antiproliferative activity against ER negative human MDA-MB-468 cells expressing CYP1A1 and CYP1B1 assessed as reduction in cell viability measured after 96 hrs by MTT assay
+112873,2399123,141,MCF-10A,1,1,1890592,19206533,50000.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability after 96 hrs by MTT assay
+112873,2399123,583,MDA-MB-468,1,1,1890591,19206451,500.0,Antiproliferative activity against ER negative human MDA-MB-468 cells expressing CYP1A1 and CYP1B1 assessed as reduction in cell viability measured after 96 hrs by MTT assay
+112873,2404710,583,MDA-MB-468,1,1,1890591,19206461,50000.0,Antiproliferative activity against ER negative human MDA-MB-468 cells expressing CYP1A1 and CYP1B1 assessed as reduction in cell viability measured after 96 hrs by MTT assay
+112873,2406017,141,MCF-10A,1,1,1890592,19206538,70000.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability after 96 hrs by MTT assay
+112873,2406017,583,MDA-MB-468,1,1,1890591,19206519,180.0,Antiproliferative activity against ER negative human MDA-MB-468 cells expressing CYP1A1 and CYP1B1 assessed as reduction in cell viability measured after 96 hrs by MTT assay
+112873,2413842,141,MCF-10A,1,1,1890592,19206532,2500.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability after 96 hrs by MTT assay
+112873,2413842,583,MDA-MB-468,1,1,1890591,19206452,800.0,Antiproliferative activity against ER negative human MDA-MB-468 cells expressing CYP1A1 and CYP1B1 assessed as reduction in cell viability measured after 96 hrs by MTT assay
+112873,2415294,141,MCF-10A,1,1,1890592,19206527,40000.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability after 96 hrs by MTT assay
+112873,2415294,583,MDA-MB-468,1,1,1890591,19206457,40.0,Antiproliferative activity against ER negative human MDA-MB-468 cells expressing CYP1A1 and CYP1B1 assessed as reduction in cell viability measured after 96 hrs by MTT assay
+112873,2448970,141,MCF-10A,1,1,1890592,19206529,28000.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability after 96 hrs by MTT assay
+112873,2448970,583,MDA-MB-468,1,1,1890591,19206455,700.0,Antiproliferative activity against ER negative human MDA-MB-468 cells expressing CYP1A1 and CYP1B1 assessed as reduction in cell viability measured after 96 hrs by MTT assay
+112873,2452365,141,MCF-10A,1,1,1890592,19206537,50000.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability after 96 hrs by MTT assay
+112873,2452365,583,MDA-MB-468,1,1,1890591,19206447,400.0,Antiproliferative activity against ER negative human MDA-MB-468 cells expressing CYP1A1 and CYP1B1 assessed as reduction in cell viability measured after 96 hrs by MTT assay
+114284,13048,325,MDA-MB-231,1,1,1928783,19442167,7400.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+114284,13048,789,BT-549,1,1,1928782,19442145,15500.0,Cytotoxicity against human BT549 cells after 48 hrs by MTT assay
+114284,368538,325,MDA-MB-231,1,1,1928783,19442166,45430.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+114284,368538,789,BT-549,1,1,1928782,19442144,19820.0,Cytotoxicity against human BT549 cells after 48 hrs by MTT assay
+114284,2360591,141,MCF-10A,1,1,1928784,19442180,51270.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+114284,2360591,325,MDA-MB-231,1,1,1928783,19442158,14820.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+114284,2372298,325,MDA-MB-231,1,1,1928783,19442150,9500.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+114284,2377132,325,MDA-MB-231,1,1,1928783,19442162,2070.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+114284,2377132,789,BT-549,1,1,1928782,19442140,2530.0,Cytotoxicity against human BT549 cells after 48 hrs by MTT assay
+114284,2381310,325,MDA-MB-231,1,1,1928783,19442154,15230.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+114284,2404899,325,MDA-MB-231,1,1,1928783,19442152,2510.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+114284,2404899,789,BT-549,1,1,1928782,19442130,2790.0,Cytotoxicity against human BT549 cells after 48 hrs by MTT assay
+114284,2412163,141,MCF-10A,1,1,1928784,19442185,43640.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+114284,2412163,325,MDA-MB-231,1,1,1928783,19442163,1750.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+114284,2412163,789,BT-549,1,1,1928782,19442141,2170.0,Cytotoxicity against human BT549 cells after 48 hrs by MTT assay
+114284,2436856,141,MCF-10A,1,1,1928784,19442170,61340.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+114284,2436856,325,MDA-MB-231,1,1,1928783,19442148,3310.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+114284,2436856,789,BT-549,1,1,1928782,19442126,3520.0,Cytotoxicity against human BT549 cells after 48 hrs by MTT assay
+114284,2459195,141,MCF-10A,1,1,1928784,19442182,41290.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+114284,2459195,325,MDA-MB-231,1,1,1928783,19442160,1260.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+114284,2459195,789,BT-549,1,1,1928782,19442138,1530.0,Cytotoxicity against human BT549 cells after 48 hrs by MTT assay
+114284,2459916,141,MCF-10A,1,1,1928784,19442177,54650.0,Cytotoxicity against human MCF10A cells after 48 hrs by MTT assay
+114284,2459916,325,MDA-MB-231,1,1,1928783,19442155,1990.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+114284,2459916,789,BT-549,1,1,1928782,19442133,2770.0,Cytotoxicity against human BT549 cells after 48 hrs by MTT assay
+114284,2463225,325,MDA-MB-231,1,1,1928783,19442156,11530.0,Cytotoxicity against human MDA-MB-231 cells after 48 hrs by MTT assay
+116586,96210,141,MCF-10A,1,1,1991298,20689292,540.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,96210,325,MDA-MB-231,1,1,1991294,20689212,1290.0,Antiproliferative activity against human MDA-MB-231 cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2282002,141,MCF-10A,1,1,1991298,20689275,17640.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2282002,325,MDA-MB-231,1,1,1991294,20689195,10340.0,Antiproliferative activity against human MDA-MB-231 cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2469857,141,MCF-10A,1,1,1991298,20689282,1510.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2469857,325,MDA-MB-231,1,1,1991294,20689202,1460.0,Antiproliferative activity against human MDA-MB-231 cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2470235,141,MCF-10A,1,1,1991298,20689286,170.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2470235,325,MDA-MB-231,1,1,1991294,20689206,1530.0,Antiproliferative activity against human MDA-MB-231 cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2471328,141,MCF-10A,1,1,1991298,20689287,170.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2471328,325,MDA-MB-231,1,1,1991294,20689207,660.0,Antiproliferative activity against human MDA-MB-231 cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2471781,141,MCF-10A,1,1,1991298,20689283,24600.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2471781,325,MDA-MB-231,1,1,1991294,20689203,21970.0,Antiproliferative activity against human MDA-MB-231 cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2472873,141,MCF-10A,1,1,1991298,20689278,3060.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2472873,325,MDA-MB-231,1,1,1991294,20689198,2720.0,Antiproliferative activity against human MDA-MB-231 cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2473249,141,MCF-10A,1,1,1991298,20689281,3020.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2473249,325,MDA-MB-231,1,1,1991294,20689201,5810.0,Antiproliferative activity against human MDA-MB-231 cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2478261,141,MCF-10A,1,1,1991298,20689285,130.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2478261,325,MDA-MB-231,1,1,1991294,20689205,260.0,Antiproliferative activity against human MDA-MB-231 cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2478847,141,MCF-10A,1,1,1991298,20689289,590.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2478847,325,MDA-MB-231,1,1,1991294,20689209,340.0,Antiproliferative activity against human MDA-MB-231 cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2479695,141,MCF-10A,1,1,1991298,20689290,880.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2479695,325,MDA-MB-231,1,1,1991294,20689210,400.0,Antiproliferative activity against human MDA-MB-231 cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2480162,141,MCF-10A,1,1,1991298,20689273,1110.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2480162,325,MDA-MB-231,1,1,1991294,20689193,1650.0,Antiproliferative activity against human MDA-MB-231 cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2480366,141,MCF-10A,1,1,1991298,20689274,1130.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2480366,325,MDA-MB-231,1,1,1991294,20689194,2590.0,Antiproliferative activity against human MDA-MB-231 cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2480742,141,MCF-10A,1,1,1991298,20689276,29260.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2480742,325,MDA-MB-231,1,1,1991294,20689196,35230.0,Antiproliferative activity against human MDA-MB-231 cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2481558,141,MCF-10A,1,1,1991298,20689280,1370.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2481558,325,MDA-MB-231,1,1,1991294,20689200,2670.0,Antiproliferative activity against human MDA-MB-231 cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2482679,141,MCF-10A,1,1,1991298,20689291,1960.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2482679,325,MDA-MB-231,1,1,1991294,20689211,730.0,Antiproliferative activity against human MDA-MB-231 cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2485394,141,MCF-10A,1,1,1991298,20689277,920.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2485394,325,MDA-MB-231,1,1,1991294,20689197,1670.0,Antiproliferative activity against human MDA-MB-231 cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2486335,141,MCF-10A,1,1,1991298,20689288,880.0,Cytotoxicity against human MCF10A cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+116586,2486335,325,MDA-MB-231,1,1,1991294,20689208,230.0,Antiproliferative activity against human MDA-MB-231 cells assessed as reduction in cell viability measured after 48 hrs MTT assay
+120442,2549934,141,MCF-10A,1,1,2110982,23196403,1310.0,Cytotoxicity against human MCF-10A cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+120442,2549934,325,MDA-MB-231,1,1,2110980,23196389,170.0,Cytotoxicity against human MDA-MB-231 cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+120442,2549934,789,BT-549,1,1,2110981,23196396,100.0,Cytotoxicity against human BT-549 cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+120442,2551540,141,MCF-10A,1,1,2110982,23196402,1500.0,Cytotoxicity against human MCF-10A cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+120442,2551540,325,MDA-MB-231,1,1,2110980,23196388,80.0,Cytotoxicity against human MDA-MB-231 cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+120442,2551540,789,BT-549,1,1,2110981,23196395,50.0,Cytotoxicity against human BT-549 cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+120442,2556999,141,MCF-10A,1,1,2110982,23196400,5030.0,Cytotoxicity against human MCF-10A cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+120442,2556999,325,MDA-MB-231,1,1,2110980,23196386,290.0,Cytotoxicity against human MDA-MB-231 cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+120442,2556999,789,BT-549,1,1,2110981,23196393,70.0,Cytotoxicity against human BT-549 cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+120442,2560970,141,MCF-10A,1,1,2110982,23196404,2190.0,Cytotoxicity against human MCF-10A cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+120442,2560970,325,MDA-MB-231,1,1,2110980,23196390,60.0,Cytotoxicity against human MDA-MB-231 cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+120442,2560970,789,BT-549,1,1,2110981,23196397,40.0,Cytotoxicity against human BT-549 cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+120442,2564291,141,MCF-10A,1,1,2110982,23196401,2980.0,Cytotoxicity against human MCF-10A cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+120442,2564291,325,MDA-MB-231,1,1,2110980,23196387,230.0,Cytotoxicity against human MDA-MB-231 cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+120442,2564291,789,BT-549,1,1,2110981,23196394,50.0,Cytotoxicity against human BT-549 cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+120442,2571283,141,MCF-10A,1,1,2110982,23196398,4290.0,Cytotoxicity against human MCF-10A cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+120442,2571283,325,MDA-MB-231,1,1,2110980,23196384,220.0,Cytotoxicity against human MDA-MB-231 cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+120442,2571283,789,BT-549,1,1,2110981,23196391,170.0,Cytotoxicity against human BT-549 cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+120442,2571394,141,MCF-10A,1,1,2110982,23196399,3580.0,Cytotoxicity against human MCF-10A cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+120442,2571394,325,MDA-MB-231,1,1,2110980,23196385,220.0,Cytotoxicity against human MDA-MB-231 cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+120442,2571394,789,BT-549,1,1,2110981,23196392,170.0,Cytotoxicity against human BT-549 cells assessed as inhibition of cell growth measured after 24 hrs by MTT assay
+121321,78759,141,MCF-10A,1,1,2133828,23308098,490.0,Cytotoxicity against human MCF-10A cells assessed as reduction in cell viability measured after 48 hrs by MTT assay
+121321,78759,325,MDA-MB-231,1,1,2133827,23308084,550.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth measured after 48 hrs by MTT assay
+121321,2532119,141,MCF-10A,1,1,2133828,23308096,6450.0,Cytotoxicity against human MCF-10A cells assessed as reduction in cell viability measured after 48 hrs by MTT assay
+121321,2532119,325,MDA-MB-231,1,1,2133827,23308082,1390.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth measured after 48 hrs by MTT assay
+121321,2540455,141,MCF-10A,1,1,2133828,23308094,5330.0,Cytotoxicity against human MCF-10A cells assessed as reduction in cell viability measured after 48 hrs by MTT assay
+121321,2540455,325,MDA-MB-231,1,1,2133827,23308080,760.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth measured after 48 hrs by MTT assay
+121321,2543854,141,MCF-10A,1,1,2133828,23308085,9670.0,Cytotoxicity against human MCF-10A cells assessed as reduction in cell viability measured after 48 hrs by MTT assay
+121321,2543854,325,MDA-MB-231,1,1,2133827,23308071,1190.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth measured after 48 hrs by MTT assay
+121321,2550000,141,MCF-10A,1,1,2133828,23308092,7950.0,Cytotoxicity against human MCF-10A cells assessed as reduction in cell viability measured after 48 hrs by MTT assay
+121321,2550000,325,MDA-MB-231,1,1,2133827,23308078,1110.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth measured after 48 hrs by MTT assay
+121321,2550282,141,MCF-10A,1,1,2133828,23308091,6330.0,Cytotoxicity against human MCF-10A cells assessed as reduction in cell viability measured after 48 hrs by MTT assay
+121321,2550282,325,MDA-MB-231,1,1,2133827,23308077,980.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth measured after 48 hrs by MTT assay
+121321,2560968,141,MCF-10A,1,1,2133828,23308088,7030.0,Cytotoxicity against human MCF-10A cells assessed as reduction in cell viability measured after 48 hrs by MTT assay
+121321,2560968,325,MDA-MB-231,1,1,2133827,23308074,1060.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth measured after 48 hrs by MTT assay
+121321,2561279,141,MCF-10A,1,1,2133828,23308086,7210.0,Cytotoxicity against human MCF-10A cells assessed as reduction in cell viability measured after 48 hrs by MTT assay
+121321,2561279,325,MDA-MB-231,1,1,2133827,23308072,1200.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth measured after 48 hrs by MTT assay
+121321,2562225,141,MCF-10A,1,1,2133828,23308095,8920.0,Cytotoxicity against human MCF-10A cells assessed as reduction in cell viability measured after 48 hrs by MTT assay
+121321,2562225,325,MDA-MB-231,1,1,2133827,23308081,690.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth measured after 48 hrs by MTT assay
+121321,2566230,141,MCF-10A,1,1,2133828,23308090,5950.0,Cytotoxicity against human MCF-10A cells assessed as reduction in cell viability measured after 48 hrs by MTT assay
+121321,2566230,325,MDA-MB-231,1,1,2133827,23308076,780.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth measured after 48 hrs by MTT assay
+121321,2567846,141,MCF-10A,1,1,2133828,23308093,5370.0,Cytotoxicity against human MCF-10A cells assessed as reduction in cell viability measured after 48 hrs by MTT assay
+121321,2567846,325,MDA-MB-231,1,1,2133827,23308079,1540.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth measured after 48 hrs by MTT assay
+121321,2569249,141,MCF-10A,1,1,2133828,23308089,8460.0,Cytotoxicity against human MCF-10A cells assessed as reduction in cell viability measured after 48 hrs by MTT assay
+121321,2569249,325,MDA-MB-231,1,1,2133827,23308075,770.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth measured after 48 hrs by MTT assay
+121321,2571901,141,MCF-10A,1,1,2133828,23308087,5470.0,Cytotoxicity against human MCF-10A cells assessed as reduction in cell viability measured after 48 hrs by MTT assay
+121321,2571901,325,MDA-MB-231,1,1,2133827,23308073,730.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth measured after 48 hrs by MTT assay
+124567,378218,325,MDA-MB-231,1,1,2248368,24908805,1780.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,1520935,141,MCF-10A,1,1,2248372,24908921,6730.0,Cytotoxicity against human MCF-10A cells incubated for 72 hrs by MTT assay
+124567,1520935,325,MDA-MB-231,1,1,2248368,24908806,3480.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,1520935,583,MDA-MB-468,1,1,2248370,24908909,5050.0,Antiproliferative activity against human MDA-MB-468 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2741830,325,MDA-MB-231,1,1,2248368,24908828,3240.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2741837,325,MDA-MB-231,1,1,2248368,24908846,4920.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2742247,325,MDA-MB-231,1,1,2248368,24908856,6370.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2743905,325,MDA-MB-231,1,1,2248368,24908835,3220.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2744135,325,MDA-MB-231,1,1,2248368,24908844,5430.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2747192,325,MDA-MB-231,1,1,2248368,24908826,7970.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2748086,141,MCF-10A,1,1,2248372,24908925,1730.0,Cytotoxicity against human MCF-10A cells incubated for 72 hrs by MTT assay
+124567,2748086,325,MDA-MB-231,1,1,2248368,24908853,1170.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2748086,583,MDA-MB-468,1,1,2248370,24908913,1800.0,Antiproliferative activity against human MDA-MB-468 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2752336,325,MDA-MB-231,1,1,2248368,24908814,6770.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2753518,325,MDA-MB-231,1,1,2248368,24908833,5990.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2754374,325,MDA-MB-231,1,1,2248368,24908823,4020.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2755115,325,MDA-MB-231,1,1,2248368,24908841,7870.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2756805,325,MDA-MB-231,1,1,2248368,24908807,3380.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2756805,583,MDA-MB-468,1,1,2248370,24908910,18280.0,Antiproliferative activity against human MDA-MB-468 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2757533,325,MDA-MB-231,1,1,2248368,24908816,5590.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2760354,325,MDA-MB-231,1,1,2248368,24908842,4340.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2761450,325,MDA-MB-231,1,1,2248368,24908829,5020.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2762947,325,MDA-MB-231,1,1,2248368,24908811,4900.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2763428,141,MCF-10A,1,1,2248372,24908923,5900.0,Cytotoxicity against human MCF-10A cells incubated for 72 hrs by MTT assay
+124567,2763428,325,MDA-MB-231,1,1,2248368,24908848,2320.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2763428,583,MDA-MB-468,1,1,2248370,24908911,2630.0,Antiproliferative activity against human MDA-MB-468 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2763910,325,MDA-MB-231,1,1,2248368,24908852,5950.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2766628,325,MDA-MB-231,1,1,2248368,24908838,5340.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2770750,325,MDA-MB-231,1,1,2248368,24908840,5440.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2770766,325,MDA-MB-231,1,1,2248368,24908818,5230.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2772807,325,MDA-MB-231,1,1,2248368,24908824,6180.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2777076,325,MDA-MB-231,1,1,2248368,24908849,3720.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2778539,141,MCF-10A,1,1,2248372,24908926,2030.0,Cytotoxicity against human MCF-10A cells incubated for 72 hrs by MTT assay
+124567,2778539,325,MDA-MB-231,1,1,2248368,24908854,1400.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2778539,583,MDA-MB-468,1,1,2248370,24908914,3530.0,Antiproliferative activity against human MDA-MB-468 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2779547,325,MDA-MB-231,1,1,2248368,24908855,2080.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2780406,141,MCF-10A,1,1,2248372,24908924,2600.0,Cytotoxicity against human MCF-10A cells incubated for 72 hrs by MTT assay
+124567,2780406,325,MDA-MB-231,1,1,2248368,24908851,1530.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124567,2780406,583,MDA-MB-468,1,1,2248370,24908912,2380.0,Antiproliferative activity against human MDA-MB-468 cells assessed as inhibition of cell growth incubated for 72 hrs by MTT assay
+124669,2540336,141,MCF-10A,1,1,2253224,24924951,92000.0,Antiproliferative activity against human MCF-10A cells assessed as inhibition of cell growth measured by MTS method
+124669,2540336,325,MDA-MB-231,1,1,2253222,24924943,28000.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth measured by MTS method
+124669,2540336,583,MDA-MB-468,1,1,2253223,24924947,9600.0,Antiproliferative activity against human MDA-MB-468 cells assessed as inhibition of cell growth measured by MTS method
+124669,2744567,141,MCF-10A,1,1,2253224,24924954,36000.0,Antiproliferative activity against human MCF-10A cells assessed as inhibition of cell growth measured by MTS method
+124669,2744567,325,MDA-MB-231,1,1,2253222,24924946,6300.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth measured by MTS method
+124669,2744567,583,MDA-MB-468,1,1,2253223,24924950,5000.0,Antiproliferative activity against human MDA-MB-468 cells assessed as inhibition of cell growth measured by MTS method
+124669,2759086,141,MCF-10A,1,1,2253224,24924953,29000.0,Antiproliferative activity against human MCF-10A cells assessed as inhibition of cell growth measured by MTS method
+124669,2759086,325,MDA-MB-231,1,1,2253222,24924945,6500.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth measured by MTS method
+124669,2759086,583,MDA-MB-468,1,1,2253223,24924949,5500.0,Antiproliferative activity against human MDA-MB-468 cells assessed as inhibition of cell growth measured by MTS method
+124669,2762104,141,MCF-10A,1,1,2253224,24924952,24000.0,Antiproliferative activity against human MCF-10A cells assessed as inhibition of cell growth measured by MTS method
+124669,2762104,325,MDA-MB-231,1,1,2253222,24924944,4600.0,Antiproliferative activity against human MDA-MB-231 cells assessed as inhibition of cell growth measured by MTS method
+124669,2762104,583,MDA-MB-468,1,1,2253223,24924948,5000.0,Antiproliferative activity against human MDA-MB-468 cells assessed as inhibition of cell growth measured by MTS method
+126111,2788186,141,MCF-10A,1,1,2301821,25103617,5000.0,Cytotoxicity against human MCF-10A cells measured after 3 days
+126111,2788186,325,MDA-MB-231,1,1,2301090,25102034,2000.0,Cytotoxicity against human MDA-MB-231 cells measured after 8 days
+126111,2788186,583,MDA-MB-468,1,1,2301093,25102042,2000.0,Cytotoxicity against human MDA-MB-468 cells measured after 8 days
+126111,2788186,789,BT-549,1,1,2301036,25101902,2000.0,Cytotoxicity against human BT-549 cells measured after 8 days
+126111,2788186,1353,HCC1937,1,1,2301048,25101934,2000.0,Cytotoxicity against human HCC1937 cells measured after 8 days
+126111,2788186,1425,HCC1806,1,1,2301047,25101931,2000.0,Cytotoxicity against human HCC1806 cells measured after 8 days
+126111,2789880,141,MCF-10A,4,4,2301083;2301084;2301085;2301086,25102017;25102019;25102021;25102023,14160.0;20000.0,Cytotoxicity against human MCF-10A AKT2-/- cells measured after 8 days || Cytotoxicity against human MCF-10A CDH1-/- cells measured after 8 days || Cytotoxicity against human MCF-10A PTEN-/- cells measured after 8 days || Cytotoxicity against human MCF-10A cells measured after 8 days
+126111,2789880,325,MDA-MB-231,1,1,2301090,25102033,20000.0,Cytotoxicity against human MDA-MB-231 cells measured after 8 days
+126111,2789880,583,MDA-MB-468,1,1,2301093,25102041,20000.0,Cytotoxicity against human MDA-MB-468 cells measured after 8 days
+126111,2789880,789,BT-549,1,1,2301036,25101901,20000.0,Cytotoxicity against human BT-549 cells measured after 8 days
+126111,2789880,1353,HCC1937,1,1,2301048,25101933,20000.0,Cytotoxicity against human HCC1937 cells measured after 8 days
+126111,2789880,1425,HCC1806,1,1,2301047,25101930,20000.0,Cytotoxicity against human HCC1806 cells measured after 8 days
+126111,2801942,141,MCF-10A,4,4,2301083;2301084;2301085;2301086,25102016;25102018;25102020;25102022,11370.0;14190.0;20000.0,Cytotoxicity against human MCF-10A AKT2-/- cells measured after 8 days || Cytotoxicity against human MCF-10A CDH1-/- cells measured after 8 days || Cytotoxicity against human MCF-10A PTEN-/- cells measured after 8 days || Cytotoxicity against human MCF-10A cells measured after 8 days
+126111,2801942,325,MDA-MB-231,1,1,2301090,25102032,20000.0,Cytotoxicity against human MDA-MB-231 cells measured after 8 days
+126111,2801942,583,MDA-MB-468,1,1,2301093,25102040,20000.0,Cytotoxicity against human MDA-MB-468 cells measured after 8 days
+126111,2801942,789,BT-549,1,1,2301036,25101900,12250.0,Cytotoxicity against human BT-549 cells measured after 8 days
+126111,2801942,1353,HCC1937,1,1,2301048,25101932,20000.0,Cytotoxicity against human HCC1937 cells measured after 8 days
+126111,2801942,1425,HCC1806,1,1,2301047,25101929,20000.0,Cytotoxicity against human HCC1806 cells measured after 8 days

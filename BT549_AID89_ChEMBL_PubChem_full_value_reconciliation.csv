@@ -1,0 +1,13 @@
+metric,value
+ChEMBL activity rows,25375
+ChEMBL unique source SIDs,25375
+PubChem original result rows,25690
+PubChem unique SIDs,25287
+ChEMBL SIDs with no PubChem rows,88
+SIDs with zero numerical matches,191
+SIDs with exactly one numerical match,25095
+SIDs with multiple numerical matches,1
+Numerically matched PubChem result rows,25097
+Outcome agreements,24750
+Outcome disagreements,347
+Previously excluded SIDs,7

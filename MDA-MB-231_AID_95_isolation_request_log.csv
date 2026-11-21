@@ -1,0 +1,685 @@
+request_number,requested_sids,sid_count,method,http_status,note
+1.0,529929,1,POST,200,
+2.0,"137430,145758,399733,428306,463477,485492,492261,492966,494078,498492",10,POST,404,
+3.0,"137430,145758,399733,428306,463477",5,POST,404,
+4.0,"137430,145758",2,POST,404,
+5.0,137430,1,POST,404,
+6.0,137430,1,GET_FALLBACK,404,After POST 404
+,137430,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+7.0,145758,1,POST,404,
+8.0,145758,1,GET_FALLBACK,404,After POST 404
+,145758,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+9.0,"399733,428306,463477",3,POST,404,
+10.0,399733,1,POST,404,
+11.0,399733,1,GET_FALLBACK,404,After POST 404
+,399733,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+12.0,"428306,463477",2,POST,404,
+13.0,428306,1,POST,404,
+14.0,428306,1,GET_FALLBACK,404,After POST 404
+,428306,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+15.0,463477,1,POST,404,
+16.0,463477,1,GET_FALLBACK,404,After POST 404
+,463477,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+17.0,"485492,492261,492966,494078,498492",5,POST,404,
+18.0,"485492,492261",2,POST,404,
+19.0,485492,1,POST,404,
+20.0,485492,1,GET_FALLBACK,404,After POST 404
+,485492,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+21.0,492261,1,POST,404,
+22.0,492261,1,GET_FALLBACK,404,After POST 404
+,492261,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+23.0,"492966,494078,498492",3,POST,404,
+24.0,492966,1,POST,404,
+25.0,492966,1,GET_FALLBACK,404,After POST 404
+,492966,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+26.0,"494078,498492",2,POST,404,
+27.0,494078,1,POST,404,
+28.0,494078,1,GET_FALLBACK,404,After POST 404
+,494078,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+29.0,498492,1,POST,404,
+30.0,498492,1,GET_FALLBACK,404,After POST 404
+,498492,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+31.0,"498496,498505,499644,499645,501375,501403,502223,503737,503826,505729",10,POST,404,
+32.0,"498496,498505,499644,499645,501375",5,POST,404,
+33.0,"498496,498505",2,POST,404,
+34.0,498496,1,POST,404,
+35.0,498496,1,GET_FALLBACK,404,After POST 404
+,498496,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+36.0,498505,1,POST,404,
+37.0,498505,1,GET_FALLBACK,404,After POST 404
+,498505,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+38.0,"499644,499645,501375",3,POST,404,
+39.0,499644,1,POST,404,
+40.0,499644,1,GET_FALLBACK,404,After POST 404
+,499644,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+41.0,"499645,501375",2,POST,404,
+42.0,499645,1,POST,404,
+43.0,499645,1,GET_FALLBACK,404,After POST 404
+,499645,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+44.0,501375,1,POST,404,
+45.0,501375,1,GET_FALLBACK,404,After POST 404
+,501375,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+46.0,"501403,502223,503737,503826,505729",5,POST,404,
+47.0,"501403,502223",2,POST,404,
+48.0,501403,1,POST,404,
+49.0,501403,1,GET_FALLBACK,404,After POST 404
+,501403,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+50.0,502223,1,POST,404,
+51.0,502223,1,GET_FALLBACK,404,After POST 404
+,502223,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+52.0,"503737,503826,505729",3,POST,404,
+53.0,503737,1,POST,404,
+54.0,503737,1,GET_FALLBACK,404,After POST 404
+,503737,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+55.0,"503826,505729",2,POST,404,
+56.0,503826,1,POST,404,
+57.0,503826,1,GET_FALLBACK,404,After POST 404
+,503826,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+58.0,505729,1,POST,404,
+59.0,505729,1,GET_FALLBACK,404,After POST 404
+,505729,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+60.0,"506814,508540,512472,512482,512662,513150,513807,514455,514489,515503",10,POST,404,
+61.0,"506814,508540,512472,512482,512662",5,POST,404,
+62.0,"506814,508540",2,POST,404,
+63.0,506814,1,POST,404,
+64.0,506814,1,GET_FALLBACK,404,After POST 404
+,506814,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+65.0,508540,1,POST,404,
+66.0,508540,1,GET_FALLBACK,404,After POST 404
+,508540,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+67.0,"512472,512482,512662",3,POST,404,
+68.0,512472,1,POST,404,
+69.0,512472,1,GET_FALLBACK,404,After POST 404
+,512472,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+70.0,"512482,512662",2,POST,404,
+71.0,512482,1,POST,404,
+72.0,512482,1,GET_FALLBACK,404,After POST 404
+,512482,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+73.0,512662,1,POST,404,
+74.0,512662,1,GET_FALLBACK,404,After POST 404
+,512662,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+75.0,"513150,513807,514455,514489,515503",5,POST,404,
+76.0,"513150,513807",2,POST,404,
+77.0,513150,1,POST,404,
+78.0,513150,1,GET_FALLBACK,404,After POST 404
+,513150,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+79.0,513807,1,POST,404,
+80.0,513807,1,GET_FALLBACK,404,After POST 404
+,513807,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+81.0,"514455,514489,515503",3,POST,404,
+82.0,514455,1,POST,404,
+83.0,514455,1,GET_FALLBACK,404,After POST 404
+,514455,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+84.0,"514489,515503",2,POST,404,
+85.0,514489,1,POST,404,
+86.0,514489,1,GET_FALLBACK,404,After POST 404
+,514489,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+87.0,515503,1,POST,404,
+88.0,515503,1,GET_FALLBACK,404,After POST 404
+,515503,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+89.0,"515526,515527,515943,516739,517847,518226,518844,519244,519294,519829",10,POST,404,
+90.0,"515526,515527,515943,516739,517847",5,POST,404,
+91.0,"515526,515527",2,POST,404,
+92.0,515526,1,POST,404,
+93.0,515526,1,GET_FALLBACK,404,After POST 404
+,515526,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+94.0,515527,1,POST,404,
+95.0,515527,1,GET_FALLBACK,404,After POST 404
+,515527,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+96.0,"515943,516739,517847",3,POST,404,
+97.0,515943,1,POST,404,
+98.0,515943,1,GET_FALLBACK,404,After POST 404
+,515943,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+99.0,"516739,517847",2,POST,404,
+100.0,516739,1,POST,404,
+101.0,516739,1,GET_FALLBACK,404,After POST 404
+,516739,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+102.0,517847,1,POST,404,
+103.0,517847,1,GET_FALLBACK,404,After POST 404
+,517847,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+104.0,"518226,518844,519244,519294,519829",5,POST,404,
+105.0,"518226,518844",2,POST,404,
+106.0,518226,1,POST,404,
+107.0,518226,1,GET_FALLBACK,404,After POST 404
+,518226,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+108.0,518844,1,POST,404,
+109.0,518844,1,GET_FALLBACK,404,After POST 404
+,518844,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+110.0,"519244,519294,519829",3,POST,404,
+111.0,519244,1,POST,404,
+112.0,519244,1,GET_FALLBACK,404,After POST 404
+,519244,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+113.0,"519294,519829",2,POST,404,
+114.0,519294,1,POST,404,
+115.0,519294,1,GET_FALLBACK,404,After POST 404
+,519294,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+116.0,519829,1,POST,404,
+117.0,519829,1,GET_FALLBACK,404,After POST 404
+,519829,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+118.0,"522349,522753,523923,524065,524376,525001,525534,526488,526489,526490",10,POST,404,
+119.0,"522349,522753,523923,524065,524376",5,POST,404,
+120.0,"522349,522753",2,POST,404,
+121.0,522349,1,POST,404,
+122.0,522349,1,GET_FALLBACK,404,After POST 404
+,522349,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+123.0,522753,1,POST,404,
+124.0,522753,1,GET_FALLBACK,404,After POST 404
+,522753,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+125.0,"523923,524065,524376",3,POST,404,
+126.0,523923,1,POST,404,
+127.0,523923,1,GET_FALLBACK,404,After POST 404
+,523923,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+128.0,"524065,524376",2,POST,404,
+129.0,524065,1,POST,404,
+130.0,524065,1,GET_FALLBACK,404,After POST 404
+,524065,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+131.0,524376,1,POST,404,
+132.0,524376,1,GET_FALLBACK,404,After POST 404
+,524376,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+133.0,"525001,525534,526488,526489,526490",5,POST,404,
+134.0,"525001,525534",2,POST,404,
+135.0,525001,1,POST,404,
+136.0,525001,1,GET_FALLBACK,404,After POST 404
+,525001,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+137.0,525534,1,POST,404,
+138.0,525534,1,GET_FALLBACK,404,After POST 404
+,525534,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+139.0,"526488,526489,526490",3,POST,404,
+140.0,526488,1,POST,404,
+141.0,526488,1,GET_FALLBACK,404,After POST 404
+,526488,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+142.0,"526489,526490",2,POST,404,
+143.0,526489,1,POST,404,
+144.0,526489,1,GET_FALLBACK,404,After POST 404
+,526489,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+145.0,526490,1,POST,404,
+146.0,526490,1,GET_FALLBACK,404,After POST 404
+,526490,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+147.0,"526492,526759,527071,527351,527499,527552,527930,528092,528456,528458",10,POST,404,
+148.0,"526492,526759,527071,527351,527499",5,POST,404,
+149.0,"526492,526759",2,POST,404,
+150.0,526492,1,POST,404,
+151.0,526492,1,GET_FALLBACK,404,After POST 404
+,526492,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+152.0,526759,1,POST,404,
+153.0,526759,1,GET_FALLBACK,404,After POST 404
+,526759,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+154.0,"527071,527351,527499",3,POST,404,
+155.0,527071,1,POST,404,
+156.0,527071,1,GET_FALLBACK,404,After POST 404
+,527071,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+157.0,"527351,527499",2,POST,404,
+158.0,527351,1,POST,404,
+159.0,527351,1,GET_FALLBACK,404,After POST 404
+,527351,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+160.0,527499,1,POST,404,
+161.0,527499,1,GET_FALLBACK,404,After POST 404
+,527499,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+162.0,"527552,527930,528092,528456,528458",5,POST,404,
+163.0,"527552,527930",2,POST,404,
+164.0,527552,1,POST,404,
+165.0,527552,1,GET_FALLBACK,404,After POST 404
+,527552,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+166.0,527930,1,POST,404,
+167.0,527930,1,GET_FALLBACK,404,After POST 404
+,527930,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+168.0,"528092,528456,528458",3,POST,404,
+169.0,528092,1,POST,404,
+170.0,528092,1,GET_FALLBACK,404,After POST 404
+,528092,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+171.0,"528456,528458",2,POST,404,
+172.0,528456,1,POST,404,
+173.0,528456,1,GET_FALLBACK,404,After POST 404
+,528456,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+174.0,528458,1,POST,404,
+175.0,528458,1,GET_FALLBACK,404,After POST 404
+,528458,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+176.0,"528510,529226,529500,531185,531190,531641,531665,532483,532545,533224",10,POST,404,
+177.0,"528510,529226,529500,531185,531190",5,POST,404,
+178.0,"528510,529226",2,POST,404,
+179.0,528510,1,POST,404,
+180.0,528510,1,GET_FALLBACK,404,After POST 404
+,528510,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+181.0,529226,1,POST,404,
+182.0,529226,1,GET_FALLBACK,404,After POST 404
+,529226,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+183.0,"529500,531185,531190",3,POST,404,
+184.0,529500,1,POST,404,
+185.0,529500,1,GET_FALLBACK,404,After POST 404
+,529500,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+186.0,"531185,531190",2,POST,404,
+187.0,531185,1,POST,404,
+188.0,531185,1,GET_FALLBACK,404,After POST 404
+,531185,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+189.0,531190,1,POST,404,
+190.0,531190,1,GET_FALLBACK,404,After POST 404
+,531190,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+191.0,"531641,531665,532483,532545,533224",5,POST,404,
+192.0,"531641,531665",2,POST,404,
+193.0,531641,1,POST,404,
+194.0,531641,1,GET_FALLBACK,404,After POST 404
+,531641,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+195.0,531665,1,POST,404,
+196.0,531665,1,GET_FALLBACK,404,After POST 404
+,531665,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+197.0,"532483,532545,533224",3,POST,404,
+198.0,532483,1,POST,404,
+199.0,532483,1,GET_FALLBACK,404,After POST 404
+,532483,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+200.0,"532545,533224",2,POST,404,
+201.0,532545,1,POST,404,
+202.0,532545,1,GET_FALLBACK,404,After POST 404
+,532545,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+203.0,533224,1,POST,404,
+204.0,533224,1,GET_FALLBACK,404,After POST 404
+,533224,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+205.0,"533247,534374,534731,535044,535271,535272,535273,535278,535279,535280",10,POST,404,
+206.0,"533247,534374,534731,535044,535271",5,POST,404,
+207.0,"533247,534374",2,POST,404,
+208.0,533247,1,POST,404,
+209.0,533247,1,GET_FALLBACK,404,After POST 404
+,533247,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+210.0,534374,1,POST,404,
+211.0,534374,1,GET_FALLBACK,404,After POST 404
+,534374,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+212.0,"534731,535044,535271",3,POST,404,
+213.0,534731,1,POST,404,
+214.0,534731,1,GET_FALLBACK,404,After POST 404
+,534731,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+215.0,"535044,535271",2,POST,404,
+216.0,535044,1,POST,404,
+217.0,535044,1,GET_FALLBACK,404,After POST 404
+,535044,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+218.0,535271,1,POST,404,
+219.0,535271,1,GET_FALLBACK,404,After POST 404
+,535271,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+220.0,"535272,535273,535278,535279,535280",5,POST,404,
+221.0,"535272,535273",2,POST,404,
+222.0,535272,1,POST,404,
+223.0,535272,1,GET_FALLBACK,404,After POST 404
+,535272,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+224.0,535273,1,POST,404,
+225.0,535273,1,GET_FALLBACK,404,After POST 404
+,535273,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+226.0,"535278,535279,535280",3,POST,404,
+227.0,535278,1,POST,404,
+228.0,535278,1,GET_FALLBACK,404,After POST 404
+,535278,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+229.0,"535279,535280",2,POST,404,
+230.0,535279,1,POST,404,
+231.0,535279,1,GET_FALLBACK,404,After POST 404
+,535279,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+232.0,535280,1,POST,404,
+233.0,535280,1,GET_FALLBACK,404,After POST 404
+,535280,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+234.0,"535544,535925,536627,536718,536719,536725,536729,536731,536735,537061",10,POST,404,
+235.0,"535544,535925,536627,536718,536719",5,POST,404,
+236.0,"535544,535925",2,POST,404,
+237.0,535544,1,POST,404,
+238.0,535544,1,GET_FALLBACK,404,After POST 404
+,535544,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+239.0,535925,1,POST,404,
+240.0,535925,1,GET_FALLBACK,404,After POST 404
+,535925,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+241.0,"536627,536718,536719",3,POST,404,
+242.0,536627,1,POST,404,
+243.0,536627,1,GET_FALLBACK,404,After POST 404
+,536627,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+244.0,"536718,536719",2,POST,404,
+245.0,536718,1,POST,404,
+246.0,536718,1,GET_FALLBACK,404,After POST 404
+,536718,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+247.0,536719,1,POST,404,
+248.0,536719,1,GET_FALLBACK,404,After POST 404
+,536719,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+249.0,"536725,536729,536731,536735,537061",5,POST,404,
+250.0,"536725,536729",2,POST,404,
+251.0,536725,1,POST,404,
+252.0,536725,1,GET_FALLBACK,404,After POST 404
+,536725,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+253.0,536729,1,POST,404,
+254.0,536729,1,GET_FALLBACK,404,After POST 404
+,536729,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+255.0,"536731,536735,537061",3,POST,404,
+256.0,536731,1,POST,404,
+257.0,536731,1,GET_FALLBACK,404,After POST 404
+,536731,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+258.0,"536735,537061",2,POST,404,
+259.0,536735,1,POST,404,
+260.0,536735,1,GET_FALLBACK,404,After POST 404
+,536735,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+261.0,537061,1,POST,404,
+262.0,537061,1,GET_FALLBACK,404,After POST 404
+,537061,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+263.0,"537062,537668,539488,541256,570252,570349,572071,576482,580884",9,POST,404,
+264.0,"537062,537668,539488,541256",4,POST,404,
+265.0,"537062,537668",2,POST,404,
+266.0,537062,1,POST,404,
+267.0,537062,1,GET_FALLBACK,404,After POST 404
+,537062,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+268.0,537668,1,POST,404,
+269.0,537668,1,GET_FALLBACK,404,After POST 404
+,537668,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+270.0,"539488,541256",2,POST,404,
+271.0,539488,1,POST,404,
+272.0,539488,1,GET_FALLBACK,404,After POST 404
+,539488,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+273.0,541256,1,POST,404,
+274.0,541256,1,GET_FALLBACK,404,After POST 404
+,541256,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+275.0,"570252,570349,572071,576482,580884",5,POST,404,
+276.0,"570252,570349",2,POST,404,
+277.0,570252,1,POST,404,
+278.0,570252,1,GET_FALLBACK,404,After POST 404
+,570252,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+279.0,570349,1,POST,404,
+280.0,570349,1,GET_FALLBACK,404,After POST 404
+,570349,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+281.0,"572071,576482,580884",3,POST,404,
+282.0,572071,1,POST,404,
+283.0,572071,1,GET_FALLBACK,404,After POST 404
+,572071,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+284.0,"576482,580884",2,POST,404,
+285.0,576482,1,POST,404,
+286.0,576482,1,GET_FALLBACK,404,After POST 404
+,576482,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"
+287.0,580884,1,POST,404,
+288.0,580884,1,GET_FALLBACK,404,After POST 404
+,580884,1,FINAL,404,"Status: 404
+Code: PUGREST.NotFound
+Message: No assay data found for the given AID (and optional SIDs/CIDs)
+"

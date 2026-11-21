@@ -1,0 +1,11 @@
+cell_name,activity_comment,record_count,distinct_compounds
+BT-549,inactive,24107,23913
+BT-549,active,1267,1256
+BT-549,Not Determined,42,39
+BT-549,unspecified,1,1
+MDA-MB-231,inactive,26435,26224
+MDA-MB-231,active,1436,1424
+MDA-MB-231,Not Determined,99,98
+MDA-MB-231,Not Active,18,18
+MDA-MB-231,ND,2,2
+MDA-MB-231,unspecified,1,1

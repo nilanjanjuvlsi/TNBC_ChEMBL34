@@ -1,0 +1,12 @@
+metric,count
+Filtered BT-549 working records,25280
+Missing ChEMBL structure records,361
+Missing-structure records with external SMILES,132
+Missing-structure records without external SMILES,229
+Missing-structure records with PubChem CID,132
+Missing-structure records without PubChem CID,229
+Recovered standardized structures,132
+Identical isomeric structures,132
+Connectivity match with stereochemical difference,0
+Structure mismatches,0
+Invalid SMILES,0

@@ -1,0 +1,6 @@
+standard_type,standard_units,standard_relation,activity_comment,standard_flag,data_validity_comment,record_count,distinct_compounds,standard_numeric_count,standard_missing_count,raw_numeric_count,raw_text_count,standard_text_count,minimum_standard_value,maximum_standard_value
+GI50,nM,,inactive,1,,24106,23912,24106,0,24106,0,0,1124.6,10000000.0
+GI50,nM,,active,1,,1226,1216,1226,0,1226,0,0,1.0,1119.44
+GI50,nM,,active,1,Outside typical range,41,41,41,0,41,0,0,0.0005834,0.9462
+GI50,nM,,inactive,1,Outside typical range,1,1,1,0,1,0,0,12217996.6,12217996.6
+GI50,nM,,unspecified,1,Outside typical range,1,1,1,0,1,0,0,109900583.94,109900583.94

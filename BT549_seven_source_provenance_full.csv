@@ -1,0 +1,8 @@
+record_id,molregno,doc_id,compound_key,compound_name,src_id,src_compound_id,cidx,activity_id,activity_raw_value,activity_raw_type,activity_raw_units,activity_raw_relation,standard_value,standard_type,standard_units,standard_relation,activity_comment,data_validity_comment,document_title,document_year,pubmed_id,doi
+1588510,304525,51887,SID416395,SID416395,7,416395,CLD0,9510429,-6.187,log GI50 (M),,,650.13,GI50,nM,,active,,PubChem BioAssay data set,,,
+1589549,102283,51887,SID459104,SID459104,7,459104,CLD0,9506172,-8.0,log GI50 (M),,,10.0,GI50,nM,,active,,PubChem BioAssay data set,,,
+1589939,1088506,51887,SID468637,SID468637,7,468637,CLD0,9522602,-6.622,log GI50 (M),,,238.78,GI50,nM,,active,,PubChem BioAssay data set,,,
+1611565,1234456,51887,SID515988,SID515988,7,515988,CLD0,9522510,-5.957,log GI50 (M),,,1104.08,GI50,nM,,active,,PubChem BioAssay data set,,,
+1618192,1291029,51887,SID524036,SID524036,7,524036,CLD0,9517897,-6.664,log GI50 (M),,,216.77,GI50,nM,,active,,PubChem BioAssay data set,,,
+1627985,1300975,51887,SID575181,SID575181,7,575181,CLD0,9568300,-6.684,log GI50 (M),,,207.01,GI50,nM,,active,,PubChem BioAssay data set,,,
+1629977,158673,51887,SID86164,SID86164,7,86164,CLD0,9518998,-5.933,log GI50 (M),,,1166.81,GI50,nM,,inactive,,PubChem BioAssay data set,,,

@@ -1,0 +1,2 @@
+cell_line,assay,pubchem_records,unique_sids,boundary_candidates,missing_chembl_smiles,missing_indngI50,missing_stddevGI50
+BT-549,NCI PubChem AID 89,25287,25287,10788,361,0,0

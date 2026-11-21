@@ -1,0 +1,13 @@
+cell_name,at_100uM_boundary,activity_comment,data_validity_comment,record_count,distinct_compounds
+MDA-MB-231,False,active,Outside typical range,55,55
+MDA-MB-231,False,active,,1381,1371
+MDA-MB-231,False,inactive,Outside typical range,3,3
+MDA-MB-231,False,inactive,,14404,14319
+MDA-MB-231,False,unspecified,Outside typical range,1,1
+MDA-MB-231,True,inactive,,12028,11937
+BT-549,False,active,Outside typical range,41,41
+BT-549,False,active,,1226,1216
+BT-549,False,inactive,Outside typical range,1,1
+BT-549,False,inactive,,13331,13243
+BT-549,False,unspecified,Outside typical range,1,1
+BT-549,True,inactive,,10775,10700

@@ -1,0 +1,7 @@
+metric,count
+Original zero-match SIDs,191
+Previously excluded SIDs,7
+Retained unresolved SIDs,184
+Retained SIDs with no numeric PubChem value,1
+Retained SIDs with a numeric PubChem value,183
+Retained SIDs with boundary candidates,11

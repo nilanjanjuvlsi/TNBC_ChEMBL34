@@ -1,0 +1,11 @@
+PUBCHEM_SID,PUBCHEM_CID,LogGI50_M,GI50_nM_from_PubChem,standard_value,standard_units,standard_type,standard_relation,pchembl_value,upper_value,standard_upper_value,PUBCHEM_ACTIVITY_OUTCOME,activity_comment,data_validity_comment,IndnGI50,StddevGI50,ChEMBL_PubChem_nM_ratio,threshold_outcome
+131458,54600319.0,-10.881,0.0131522483219223,1124.6,nM,GI50,,,,,Active,inactive,,1,0.0,85506.29310469289,active
+487336,60794.0,-9.0,1.0,24888.57,nM,GI50,,,,,Active,inactive,,2,0.0,24888.57,active
+516573,385455.0,-7.3078,49.22661804443351,8933.05,nM,GI50,,,,,Active,inactive,,1,0.0,181.46787967308143,active
+524790,393463.0,-8.425,3.758374042884436,50003.45,nM,GI50,,,,,Active,inactive,,1,0.0,13304.5432491397,active
+524795,393468.0,-9.0,1.0,37497.3,nM,GI50,,,,,Active,inactive,,1,0.0,37497.3,active
+524796,393469.0,-9.0,1.0,8933.05,nM,GI50,,,,,Active,inactive,,1,0.0,8933.05,active
+524797,393470.0,-9.0,1.0,68076.94,nM,GI50,,,,,Active,inactive,,1,0.0,68076.94,active
+524800,393473.0,-9.0,1.0,5081.59,nM,GI50,,,,,Active,inactive,,1,0.0,5081.59,active
+569254,54607189.0,-7.0935,80.63062013547282,11803.21,nM,GI50,,,,,Active,inactive,,1,0.0,146.38619894239494,active
+86164,92122.0,-8.6258,2.367009494686908,1166.81,nM,GI50,,,,,Active,inactive,,1,0.0,492.9469030939978,active
